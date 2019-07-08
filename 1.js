@@ -29,3 +29,4 @@ Algoritma :
 5. Bila nilai "uang" sama atau lebih besar dari "VVIP", maka ditampilkan "nama", "VVIP", dan "kembalian".
 6. Bila nilai "uang" sama atau lebih besar dari "VIP", maka ditampilkan "nama", "VIP", dan "kembalian".
 7. Bila nilai "uang" sama atau lebih besar dari "Reguler", maka ditampilkan "nama", "Reguler", dan "kembalian".
+8. Bila nilai "uang" lebih kecil dari "Reguler", maka pulang ke rumah.
